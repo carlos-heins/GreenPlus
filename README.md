@@ -21,9 +21,14 @@ A parte teórica do projeto foi criado na matéria de __engenharia de software__
 - [Interface](projeto/interface/)
 - [Termo de aceite](projeto/Termo%20de%20Aceite%20-%20RocketLab.pdf)
 
-## Implementação
-### O backend foi desenvolvido por [carlos-heins](https://github.com/carlos-heins).
+# Implementação
+## __BackEnd__
+desenvolvido por [carlos-heins](https://github.com/carlos-heins).
 
 ## Licença
 
 Licenciado sob a [MIT License](./LICENSE).
+
+## falta: 
+- encriptar a senha;
+- implementar o repository com banco de dados;

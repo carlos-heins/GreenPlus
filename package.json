@@ -1,0 +1,24 @@
+{
+  "name": "green-plus",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts --ignore-watch node_modules --transpile-only --respawn"
+  },
+  "repository": "https://github.com/carlos-heins/GreenPlus.git",
+  "author": "carlos-heins <carlozheins053@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "@types/uuid": "^8.3.4",
+    "express": "^4.17.3",
+    "pg": "^8.7.3",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.3.4",
+    "uuid": "^8.3.2"
+  }
+}
